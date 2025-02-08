@@ -1,0 +1,26 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Live Music - Conecta con Músicos en Vivo</title>
+    <style>
+        body { font-family: Arial, sans-serif; text-align: center; padding: 20px; }
+        h1 { color: #0073e6; }
+        p { font-size: 18px; color: #333; }
+        img { width: 80%; max-width: 600px; margin-top: 20px; border-radius: 10px; }
+        .container { max-width: 800px; margin: auto; }
+        .btn { display: inline-block; background: #0073e6; color: white; padding: 10px 20px; text-decoration: none; font-size: 18px; border-radius: 5px; margin-top: 20px; }
+    </style>
+</head>
+<body>
+    <div class="container">
+        <h1>🎵 Live Music - La Plataforma de Música en Vivo en Sinaloa</h1>
+        <p>Live Music es la plataforma líder en Sinaloa que conecta a <b>grupos, DJs y músicos</b> con personas que buscan contrataciones para eventos.</p>
+        <p>Si eres músico, Live Music te ayuda a conseguir más eventos. Si buscas talento para tu fiesta o evento, aquí encontrarás a los mejores artistas.</p>
+        <img src="https://source.unsplash.com/600x400/?concert,band" alt="Música en Vivo">
+        <p><b>Conecta. Contrata. Disfruta.</b></p>
+        <a href="https://www.tu-enlace.com" class="btn">Explora Live Music</a>
+    </div>
+</body>
+</html>
