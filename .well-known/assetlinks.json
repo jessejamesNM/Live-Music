@@ -5,7 +5,8 @@
       "namespace": "android_app",
       "package_name": "com.jesse.livemusic", 
       "sha256_cert_fingerprints": [
-        "FINGERPRINT_DE_TU_CERTIFICADO"
+        "SHA256: AB:A9:9E:AE:AC:E2:28:36:41:02:A4:64:BF:82:77:6E:87:C1:3F:0D:C2:33:C8:7E:D5:77:6A:73:6F:01:B9:31
+"
       ]
     }
   }
